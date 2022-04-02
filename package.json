@@ -1,0 +1,25 @@
+{
+  "name": "inline-runtime-chunk-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Inline Webpack's runtime chunks to the output html to save http request.",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "html-webpack-plugin"
+  ],
+  "author": "fe-luna <feluna.zhang@gmail.com> (https://github.com/fe-luna)",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/fe-luna/inline-runtime-chunk-html-webpack-plugin",
+  "repository": "https://github.com/fe-luna/inline-runtime-chunk-html-webpack-plugin.git",
+  "bugs": "https://github.com/fe-luna/inline-runtime-chunk-html-webpack-plugin/issues",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  },
+  "peerDependencies": {
+    "html-webpack-plugin": "^5.0.0",
+    "webpack": "^5.0.0"
+  }
+}
